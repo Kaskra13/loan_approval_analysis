@@ -62,7 +62,7 @@ conda install -c conda-forge pyspark
 ```
 
 
-## Project Wwrkflow
+## Project workflow
 1. Data Loading and Quality Check
 = Initialize Spark session
 
